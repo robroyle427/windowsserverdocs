@@ -19,7 +19,7 @@ Starting with Windows Server 2022, there is one primary release channel availabl
 
 With the Long-Term Servicing Channel, a new major version of Windows Server is released every 2-3 years. Users are entitled to 5 years of mainstream support and 5 years of extended support. This channel provides systems with a long servicing option and functional stability, and can be installed with Server Core or Server with Desktop Experience installation options. Deployments of the LTSC of Windows Server are not affected by Semi-Annual Channel releases. The Long-Term Servicing Channel will continue to receive security and non-security updates, but it will not receive the new features and functionality.
 
-## Semi-Annual Channel
+## Semi-Annual Channel(SAC)
 
 The Semi-Annual Channel enabled customers who are innovating quickly to take advantage of new operating system capabilities at a faster pace, focused in on containers and microservices. Each release in this channel is supported for 18 months from the initial release.
 
